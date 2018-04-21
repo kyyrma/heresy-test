@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "9244bd88-76e5-4068-bb5e-09bc3cf99e4f",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "bcfc2200-7a16-4216-8916-21c5ed3528ff",
             "Value": {
                 "id": "294904e9-1f3b-46a9-97a0-8deeabf7573b",
@@ -244,6 +252,14 @@
                 "id": "da7569c1-d028-4581-9475-f20ec974c8a6",
                 "resourcePath": "sprites\\sprPlaceholderIdleRight\\sprPlaceholderIdleRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "d2c44c33-8523-4dbc-90fc-fa9aa1b62e89",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
