@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "29e828f8-285b-4e15-b9a4-0472daa9373f",
+            "Value": {
+                "id": "34cdedf3-0493-467b-abd5-98003e62ff06",
+                "resourcePath": "sprites\\sprPlaceholderMoveRight\\sprPlaceholderMoveRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2e65a17b-b297-41fd-ba8e-914bf9a00154",
             "Value": {
                 "id": "488f9221-9396-407e-87dd-10322f952057",
@@ -87,14 +95,6 @@
             }
         },
         {
-            "Key": "377770ba-c988-4d86-b090-a41573e547c5",
-            "Value": {
-                "id": "20694cf2-b7e5-43b9-9fe8-e3aaeef7782b",
-                "resourcePath": "sprites\\LevelTiles\\LevelTiles.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3bf30b21-8c6b-44d8-8c48-e6e6e870ab5c",
             "Value": {
                 "id": "da6dc3f4-b200-452d-86b3-0bb3256c92cd",
@@ -116,6 +116,14 @@
                 "id": "a6603598-6b2c-49dc-8c2e-d3412e86773f",
                 "resourcePath": "views\\46e1abd5-8fd0-47ad-9c3c-b67d8978d4ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "57184ec3-214f-4d99-a3a4-ef16db736d4b",
+            "Value": {
+                "id": "7e1850a7-c6e2-4c4f-a8aa-e0d450287967",
+                "resourcePath": "sprites\\sprPlaceholderIdleUp\\sprPlaceholderIdleUp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -175,14 +183,6 @@
             }
         },
         {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "892c5dc8-d1bd-472f-a8a4-48677c81121f",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
             "Key": "bcfc2200-7a16-4216-8916-21c5ed3528ff",
             "Value": {
                 "id": "294904e9-1f3b-46a9-97a0-8deeabf7573b",
@@ -194,7 +194,7 @@
             "Key": "bd68494f-89f2-45d4-9099-40f8f1159a68",
             "Value": {
                 "id": "0e9c2f2a-5557-405d-9403-5da16a77e387",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\sprPlaceholderIdleDown\\sprPlaceholderIdleDown.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,19 +239,19 @@
             }
         },
         {
-            "Key": "e2ae99d6-a818-4898-b6e9-398e13f521e1",
+            "Key": "eb55ca62-65bb-4480-9e55-8d5d366d1808",
             "Value": {
-                "id": "709feda2-43ea-430d-8b89-b029b8d88d54",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
+                "id": "da7569c1-d028-4581-9475-f20ec974c8a6",
+                "resourcePath": "sprites\\sprPlaceholderIdleRight\\sprPlaceholderIdleRight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Key": "f45be998-6f73-4ef2-a909-4869ced634df",
             "Value": {
-                "id": "639f42ca-1809-41b6-b942-be5fc6edf536",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
+                "id": "7f00f6c4-205a-423f-b98e-83be44e2b3d4",
+                "resourcePath": "sprites\\sprPlaceholderMoveDown\\sprPlaceholderMoveDown.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
