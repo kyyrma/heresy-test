@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "8db3eb2a-3e3e-42c2-a66c-f8154339c2ee",
+            "Value": {
+                "id": "5a33d195-a392-4c4b-a10f-ae3e47192d8e",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "925d3d9d-41e1-446a-bb44-8a2bb6c2f395",
             "Value": {
                 "id": "d66fc848-a8c1-4d96-af60-db2969550db3",
@@ -180,6 +188,14 @@
                 "id": "ad450069-d2db-405f-8b0c-6a8dc1e96e09",
                 "resourcePath": "objects\\object0\\object0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "f8da2c7a-4de1-4eb3-a694-dd8f4ceefef1",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -204,6 +220,14 @@
                 "id": "c9458e5d-9b18-4772-a049-c8579538f3df",
                 "resourcePath": "sprites\\sprite1\\sprite1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "be67baee-85d7-4d9b-bffd-56f46e8e78e5",
+            "Value": {
+                "id": "8cd1084f-a1ec-4a12-8226-ee14a5ac4f59",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -247,10 +271,26 @@
             }
         },
         {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "ece27338-1f4c-4f12-8d07-5d23ff3a67f0",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
             "Key": "f45be998-6f73-4ef2-a909-4869ced634df",
             "Value": {
                 "id": "7f00f6c4-205a-423f-b98e-83be44e2b3d4",
                 "resourcePath": "sprites\\sprPlaceholderMoveDown\\sprPlaceholderMoveDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ffd6c1d2-1706-42be-9d20-d34b337a99b6",
+            "Value": {
+                "id": "b18a397b-6601-40ac-8ca6-d18f2c8b4cf5",
+                "resourcePath": "sprites\\LevelTileset\\LevelTileset.yy",
                 "resourceType": "GMSprite"
             }
         }
